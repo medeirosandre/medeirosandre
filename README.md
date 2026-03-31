@@ -62,3 +62,7 @@
   
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=#FC8EAC&height=500&section=footer&text=capsule%20render&fontSize=90)
   -->
+## Contato
+- Email: medeiros.afelipe@gmail.com
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=medeirosandre&show_icons=true)
