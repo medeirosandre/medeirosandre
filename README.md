@@ -6,7 +6,7 @@
 ### Cloud Services
 
 ![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white)
+![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)
 ![nginx](https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=fff)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FA520F?logo=rabbitmq&logoColor=fff)
